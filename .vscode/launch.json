@@ -17,5 +17,14 @@
       ],
       "jinja": true
     }
+  ],
+  "command": [
+    {
+        "type": "command",
+        "details": {
+            "key": "workbench.extensions.search",
+            "value": "GitHub Copilot Chat @popular"
+        }
+    }
   ]
 }
